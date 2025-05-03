@@ -5,10 +5,18 @@ html {
   padding-left: 20px;
 }
 
-img{
+img {
   border-radius: 30px;
+  margin: 10px;
+  width: 200px;
 }
 
 h1 {
   font-family: "Poetsen One", sans-serif;
+}
+
+.highlight {
+  background-color: yellow;
+  padding: 10px;
+  border: 2px solid orange;
 }
